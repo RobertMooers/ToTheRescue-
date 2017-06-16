@@ -2,7 +2,7 @@
 
 <b>Description:</b><br />
 
-ToTheRescue! is an educational skills web application for kids ages three to six years old. The goal of the game is to play educational mini games in order to save an animal at the end of five maps. ToTheRescue! includes over 30 mini games that are based on the Oregon State Standards for kindergarten. ThoTheRescue! is intended to be played on desktop and/or mobile devices on the Google Chrome browser. However, ToTheRescue! can also be played on the Mozilla Fire Fox browser. ToTheRescue! can be downloaded onto a phone as a progressive web application.
+ToTheRescue! is an educational skills web application for kids ages three to six years old. The goal of the game is to play educational mini games in order to save an animal at the end of five maps. ToTheRescue! includes over 30 mini games that are based on the Oregon State Standards for kindergarten. ThoTheRescue! is intended to be played on desktop and/or mobile devices on the Google Chrome browser. However, ToTheRescue! can also be played on the Mozilla Fire Fox browser. ToTheRescue! can be downloaded onto an android device as a progressive web application.
 
 <b>Contributors:</b><br />
 
